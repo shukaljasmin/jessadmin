@@ -38,3 +38,22 @@ function boot()
 ```bash
 php artisan migrate:fresh
 ```
+
+######Step – 6
+
+```bash
+php artisan vendor:publish --tag=config
+```
+
+######Step – 7
+```bash
+Go to file config\jessadmin.php
+```
+
+```bash
+'path' => [
+        'login'=>'vendor/pages/login',
+        'test_login'=>'vendor/pages/test_login',
+        
+    ],
+```
