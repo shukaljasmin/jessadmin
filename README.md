@@ -48,7 +48,7 @@ php artisan vendor:publish --tag=config
 ```bash
 Go to file config\jessadmin.php
 ```
-
+Follow Path Array Set Your Login View Path 
 ```bash
 'path' => [
         'login'=>'vendor/pages/login',
@@ -56,3 +56,5 @@ Go to file config\jessadmin.php
         
     ],
 ```
+###### Step – 8
+Thank You
