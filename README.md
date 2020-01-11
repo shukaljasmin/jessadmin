@@ -1,4 +1,4 @@
-# # Welcome jessadmin Admin Package 
+# Welcome jessadmin Admin Package 
 jessadmin is a laravel package for quick admin setup in laravel..
 ## Installation
 Use the package manager [composer](https://getcomposer.org/) to install jessadmin.
