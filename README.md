@@ -22,7 +22,6 @@ Following Route Is Exist Or Not
 |        | GET|HEAD | admin/jess_sesstion |           | Shukaljasmin\jessadmin\Controllers\JessAdminSessionController@show | web            |        
 |        | POST     | admin/jesslogin     | jesslogin | Shukaljasmin\jessadmin\Controllers\JessadminController@admin_login | web            |        
 ```
-
 ###### Step – 5
 Set .env File As You Can Use Regularly :)
 
