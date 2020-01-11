@@ -10,6 +10,17 @@ go command prompt
 ```bash
 composer require shukaljasmin/jessadmin
 ```
+Go to Config\app.php
+Add Providers Array And Aliases
+```bash
+    'providers' => [
+        Shukaljasmin\jessadmin\JessadminServiceProvider::class,
+    ],
+    `aliases' => [
+        'Jam' =>Shukaljasmin\jessadmin\Facades\jessadmin::class,
+    ],
+```
+
 ###### Step – 4
 Get A List Of Registered Route Follow Command
 ```bash
