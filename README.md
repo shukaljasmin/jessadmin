@@ -33,18 +33,18 @@ function boot()
     Builder::defaultStringLength(191);
 }
 ```
-
+And 
 ```bash
 php artisan migrate:fresh
 ```
 
-######Step – 6
+###### Step – 6
 
 ```bash
 php artisan vendor:publish --tag=config
 ```
 
-######Step – 7
+###### Step – 7
 ```bash
 Go to file config\jessadmin.php
 ```
