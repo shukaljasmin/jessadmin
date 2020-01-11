@@ -11,7 +11,7 @@ go command prompt
 composer require shukaljasmin/jessadmin
 ```
 Go to Config\app.php
-Add Providers Array And Aliases
+Add Following Code Providers Array And Aliases
 ```bash
     'providers' => [
         Shukaljasmin\jessadmin\JessadminServiceProvider::class,
