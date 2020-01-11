@@ -1,0 +1,14 @@
+{
+    "name": "Jasminshukal/jessadmin",
+    "description": "this is admin test",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jasmin shukal",
+            "email": "mr.jasmin.shukal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
